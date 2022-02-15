@@ -1,1 +1,1 @@
-web: bin/mod
+web: /layers/tanzu-buildpacks_go-build/targets/bin/mod
